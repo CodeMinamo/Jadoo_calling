@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 align="center">JADOO v2.0<br/>Let's call Jadoo again</h2>
+  <h1 align="center">JADOO v2.0</h1><h3>Let's call Jadoo again</h3>
 
   This project is specially for Jadoo lovers❤️, <br />Responsive for Desktops only, built using HTML, CSS, and JavaScript.
 
