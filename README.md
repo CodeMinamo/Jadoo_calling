@@ -3,7 +3,7 @@
 
   This project is specially for Jadoo lovers❤️, <br />Responsive for Desktops only, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codeminamo.github.io/Jadoo_calling/" style="textdecoration:none;"><strong>➥ Live Demo</strong></a>
+  <a href="https://codeminamo.github.io/Jadoo_calling/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
