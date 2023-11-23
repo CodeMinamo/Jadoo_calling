@@ -14,4 +14,4 @@
 ![Jadoo v2.0 Demo](./drop.png "Desktop Demo")
 
 This project is **free to use** and does not contains any license.
-###Installation
+# Installation
