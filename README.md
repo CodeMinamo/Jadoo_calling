@@ -15,3 +15,6 @@
 
 This project is **free to use** and does not contains any license.
 # Installation
+<h3>1. Download the zip 🗃️ file</h3>
+<h3>2. Unzip the zip 🗃️ file</h3>
+<h3>3. Now double click on index.html to open it.</h3>
